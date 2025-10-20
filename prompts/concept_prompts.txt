@@ -1,0 +1,4 @@
+Design a game theme which address the sustainability and waste management in Vietnam
+The game is a form of sorting the elements to correct box(Recyclable, Organic, Hazardous, General)
+The game should has a value of education, raise-awareness for people who play the game
+The name of the game is "Waste Warriors"

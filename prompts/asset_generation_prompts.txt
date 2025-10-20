@@ -1,0 +1,6 @@
+The main color of the game is blue and purple
+There are 2 buttons in the home page of the game which are "Play Game" and "How to play"
+In the play screen, there are 3 boxes, first boxes is the "score", second is the number of items which is drop t the correct box, third is the "time"
+At the bottom of the play screen, it shows 4 boxes represents the classification.
+When the game done, it move to another screen which shows the score, the number of correct answer, number of wrong answer, the accuracy, the time taken. The "Play again" 
+button appear at the bottom.

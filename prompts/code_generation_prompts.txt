@@ -1,0 +1,6 @@
+The game use fully html, css and javascript.
+When user click to "Play Game" button, it start the game. 
+Use the javascript "addEventListener" to listen to the mouse action. 
+When the item is drag and drop to the correct box, it shows correct, if it drag to the wrong box, it show wrong.
+When the time is up, it end the game. 
+
